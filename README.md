@@ -7,6 +7,7 @@
 - Starlink 
 - Iridium
 - Thuraya
+- SDR
 
 ### Zones
 [`Iran`](.assets/Iran/readme.md)
